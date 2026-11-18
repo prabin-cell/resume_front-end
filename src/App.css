@@ -5,6 +5,9 @@
     background-position: center;
     background-attachment: fixed;
 }
+.box {
+  background: rgba(255, 255, 255, 0.85);
+}
 #part2{
   background-image: url('https://www.askcody.com/hubfs/Blogs/Young_professionals_teamwork_meeting.webp');
     height: 550px;
