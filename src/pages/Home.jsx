@@ -6,23 +6,17 @@ function Home() {
   return (
     <div>
       <section id='part1'>
-  <div className='row'>
-    <div className="col-md-4"></div>
-
-    <div className="col-md-4 box border p-5 m-5 my-5 rounded bg-white bg-opacity-25 text-center">
+  <div className='container h-100 d-flex align-items-center justify-content-center'>
+    <div className="box border p-4 p-md-5 rounded bg-white bg-opacity-25 text-center">
       <h1>Designed to <br />hire your next</h1>
-
       <h4>
         Your skill, your story, <br />
         job - all in one
       </h4>
-
       <Link to='/steps' className='btn btn-dark text-light mt-5'>
         MAKE YOUR RESUME
       </Link>
     </div>
-
-    <div className='col-md-4'></div>
   </div>
 </section>
 
