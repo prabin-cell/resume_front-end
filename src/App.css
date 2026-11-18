@@ -1,0 +1,15 @@
+#part1 {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLCwqWacORnvj0JotRZ44a8EnfJWgWRzpFqrkjmTOBrQ__j5gMkYI7rhe&s=10');
+    height: 550px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#part2{
+  background-image: url('https://www.askcody.com/hubfs/Blogs/Young_professionals_teamwork_meeting.webp');
+    height: 550px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
